@@ -3,7 +3,7 @@
 ### 사전준비
 
 
-[Issues](https://github.com/D2CAMPUS-PARTNER/SHAKE_2nd/issues/new) 에서 아래 서식으로 동아리 소개를 '꼭' 작성해주세요.
+[Issues](https://github.com/D2CAMPUS-PARTNER/SHAKE_3rd/issues/new) 에서 아래 서식으로 동아리 소개를 '꼭' 작성해주세요.
 
 ```javascript
 제목 : [동아리명] - 스터디분야
@@ -30,7 +30,23 @@
 동아리명(소속)|스터디분야|활동페이지
 --------------|----------|----------
 ALOHA|알고리즘|https://www.facebook.com/HYUALOHA
-
-
+A.N.S.I.|프로그래밍|https://cafe.naver.com/ajouansi
+Bacchus|시스템관리|http://bacchus.snucse.org
+BARAM|로봇|http://baram.kw.ac.kr
+Codin9cafe|프로그래밍|https://www.facebook.com/groups/codin9cafe/
+EDOC|웹|http://ewhadoccoding.slack.com
+GoN|보안|gon.kaist.ac.kr
+Hacker|프로그래밍|-
+HeXA|보안|http://hexa-unist.github.io/
+BCSD Lab|공모전참가|-
+KERT|보안|www.kert.or.kr
+KHLUG|리눅스,아두이노 등|http://www.khlug.org
+MOTION|앱개발|https://www.facebook.com/motion401?hc_location=ufi
+NEXTERS|창업|https://www.facebook.com/Nexterspage
+Revolution|게임|https://www.facebook.com/knurevolution
+TMI|HW&SW전반|https://www.facebook.com/groups/306984199313364
+X[deca]|로봇|http://www.xdeca.com/
+Zeropage|프로그래밍|zeropage.org
+하나와영|SW전공학회|http://koreaoaz.com/
 
 
