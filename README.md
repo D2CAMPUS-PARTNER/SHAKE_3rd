@@ -2,9 +2,9 @@
 
 ### 사전준비
 
-#### ● 동아리 소개
+[Issues](https://github.com/D2CAMPUS-PARTNER/SHAKE_3rd/issues/new) 에서 각 서식별로 작성해주세요.
 
-[Issues](https://github.com/D2CAMPUS-PARTNER/SHAKE_3rd/issues/new) 에서 아래 서식으로 동아리 소개를 '꼭' 작성해주세요.
+#### ● 동아리 소개
 
 ```javascript
 제목 : [동아리명] - 스터디분야
