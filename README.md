@@ -19,7 +19,7 @@
 #### ● D2 CAMPUS PARTNER DAY (7.28 ~ 8.4)
 
 ```javascript
-제목 : [PARTNERDAY] - 활동명 (참여동아리명)
+제목 : [PARTNERDAY] - 활동사항 (참여동아리명)
 내용 : 
 ### 활동내용 : 
 ### 활동기간 : 
