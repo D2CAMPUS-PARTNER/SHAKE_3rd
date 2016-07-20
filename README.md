@@ -4,7 +4,7 @@
 
 [Issues](https://github.com/D2CAMPUS-PARTNER/SHAKE_3rd/issues/new) 에서 각 서식별로 작성해주세요.
 
-#### ● 동아리 소개
+#### ● 동아리 소개 (~7.27까지)
 
 ```javascript
 제목 : [동아리명] - 스터디분야
@@ -16,7 +16,7 @@
 ### 기타 하고싶은 말
 ```
 
-#### ● D2 CAMPUS PARTNER DAY
+#### ● D2 CAMPUS PARTNER DAY (7.28 ~ 8.4)
 
 ```javascript
 계획하고 있는 활동,혹은 생각만하고 실행에 옮기지 못했던 활동 중 D2 CAMPUS PARTNER와 함께하고 싶은 활동을 기재해주세요. 
