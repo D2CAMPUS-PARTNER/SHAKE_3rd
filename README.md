@@ -63,7 +63,7 @@ KERT|보안|www.kert.or.kr
 KHLUG|리눅스,아두이노 등|http://www.khlug.org
 KSIA|기타|-|
 MOTION|앱개발|https://www.facebook.com/motion401?hc_location=ufi
-MR|로봇|http://mr/kaist.ac.kr/|
+MR|로봇|http://mr.kaist.ac.kr/|
 NEXTERS|창업|https://www.facebook.com/Nexterspage
 Revolution|게임|https://www.facebook.com/knurevolution
 X[deca]|로봇|http://www.xdeca.com/
