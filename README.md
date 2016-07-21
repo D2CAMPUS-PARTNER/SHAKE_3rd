@@ -48,6 +48,7 @@
 동아리명(소속)|스터디분야|활동페이지
 --------------|----------|----------
 ALOHA|알고리즘|https://www.facebook.com/HYUALOHA
+ALGOS|알고리즘|http://cafe.naver.com/smalgos
 A.N.S.I.|프로그래밍|https://cafe.naver.com/ajouansi
 Bacchus|시스템관리|http://bacchus.snucse.org
 BARAM|로봇|http://baram.kw.ac.kr
