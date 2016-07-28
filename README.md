@@ -56,7 +56,7 @@ BCSD Lab|공모전참가|-
 Codin9cafe|프로그래밍|https://www.facebook.com/groups/codin9cafe/
 EDOC|웹|http://ewhadoccoding.slack.com
 GoN|보안|gon.kaist.ac.kr
-Hacker|프로그래밍|-
+Hacker|프로그래밍|http://www.khuhacker.com/
 HeXA|보안|http://hexa-unist.github.io/
 KERT|보안|www.kert.or.kr
 KHLUG|리눅스,아두이노 등|http://www.khlug.org
