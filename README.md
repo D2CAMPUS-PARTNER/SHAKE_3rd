@@ -66,4 +66,5 @@ MR|로봇|http://mr.kaist.ac.kr/|
 NEXTERS|창업|https://www.facebook.com/Nexterspage
 Revolution|게임|https://www.facebook.com/knurevolution
 X[deca]|로봇|http://www.xdeca.com/
+YBigTa|빅데이터|https://www.facebook.com/groups/yonseibigdata
 Zeropage|프로그래밍|zeropage.org
